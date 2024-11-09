@@ -7,13 +7,13 @@ A custom React hook to handle fullscreen toggling for HTML elements in a React p
 You can install the package via npm or yarn:
 
 ```bash
-npm install use-fullscreen
+npm i use-fullscreen-hook
 ```
 
 Or with Yarn:
 
 ```bash
-yarn add use-fullscreen
+yarn add use-fullscreen-hook
 ```
 
 ## Usage
