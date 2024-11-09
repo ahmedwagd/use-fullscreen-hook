@@ -1,0 +1,24 @@
+{
+  "name": "use-fullscreen-hook",
+  "version": "1.0.2",
+  "description": "A React hook to manage fullscreen state",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "fullscreen"
+  ],
+  "author": "Ahmed Wagdy",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
