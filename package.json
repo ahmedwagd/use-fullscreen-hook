@@ -4,6 +4,10 @@
   "description": "A React hook to manage fullscreen state",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedwagd/use-fullscreen-hook"
+  },
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
